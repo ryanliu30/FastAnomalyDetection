@@ -1,0 +1,6 @@
+[submodule "weaver-core"]
+	path = weaver-core
+	url = git@github.com:ryanliu30/weaver-core.git
+[submodule "particle_transformer"]
+	path = particle_transformer
+	url = git@github.com:jet-universe/particle_transformer.git

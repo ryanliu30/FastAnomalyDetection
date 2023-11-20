@@ -1,0 +1,15 @@
+data_test:
+- HToBB:data/JetClass/Pythia/test_20M/HToBB_*.root
+- HToCC:data/JetClass/Pythia/test_20M/HToCC_*.root
+- HToGG:data/JetClass/Pythia/test_20M/HToGG_*.root
+- HToWW2Q1L:data/JetClass/Pythia/test_20M/HToWW2Q1L_*.root
+- HToWW4Q:data/JetClass/Pythia/test_20M/HToWW4Q_*.root
+- TTBar:data/JetClass/Pythia/test_20M/TTBar_*.root
+- TTBarLep:data/JetClass/Pythia/test_20M/TTBarLep_*.root
+- WToQQ:data/JetClass/Pythia/test_20M/WToQQ_*.root
+- ZToQQ:data/JetClass/Pythia/test_20M/ZToQQ_*.root
+- ZJetsToNuNu:data/JetClass/Pythia/test_20M/ZJetsToNuNu_*.root
+data_train:
+- ZJetsToNuNu:data/JetClass/Pythia/train_100M/ZJetsToNuNu_*.root
+data_val:
+- data/JetClass/Pythia/val_5M/*.root
