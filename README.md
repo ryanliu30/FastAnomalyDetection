@@ -2,7 +2,7 @@
 
 # Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder
 
-[Machine Learning and Physical Science at Neurips 2023 Presentation](https://nips.cc/virtual/2023/76170)
+[Machine Learning and the Physical Sciences Workshop, NeurIPS 2023 Presentation](https://nips.cc/virtual/2023/76170)
     
 [arXiv paper]()
 
