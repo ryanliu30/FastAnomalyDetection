@@ -2,11 +2,6 @@
 
 # Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder
 
-<figure>
-    <img src="https://fastmachinelearning.org/hls4ml/_images/hls4ml_logo.png" width="250"/>
-</figure>
-
-
 [Machine Learning and Physical Science at Neurips 2023 Presentation](https://nips.cc/virtual/2023/76170)
     
 [arXiv paper]()
