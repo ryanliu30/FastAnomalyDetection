@@ -46,5 +46,12 @@ We supplied four model checkpoints from our training that can be used out of the
 ## Citation
 If you use this work in your research, please cite:
 ```
-BibTex here
+@misc{liu2023fast,
+      title={Fast Particle-based Anomaly Detection Algorithm with Variational Autoencoder}, 
+      author={Ryan Liu and Abhijith Gandrakota and Jennifer Ngadiuba and Maria Spiropulu and Jean-Roch Vlimant},
+      year={2023},
+      eprint={2311.17162},
+      archivePrefix={arXiv},
+      primaryClass={hep-ex}
+}
 ```
