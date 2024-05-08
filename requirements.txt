@@ -85,7 +85,7 @@ uproot==5.1.2
 urllib3==1.26.13
 vector==1.1.1.post1
 wandb==0.16.0
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 xxhash==3.4.1
 yarl==1.9.2
 zipp==3.17.0
